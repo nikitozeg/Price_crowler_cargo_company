@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Monitoring-VOZOVOZ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Monitoring_VOZOVOZ_jar</output-path>
+    <root id="archive" name="Monitoring-VOZOVOZ.jar">
+      <element id="module-output" name="Monitoring-VOZOVOZ" />
+      <element id="extracted-dir" path="C:/jxl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-smart-1.1.jar/json-smart-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-path-0.8.0.jar/json-path-0.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-io-2.4-bin/commons-io-2.4/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/selenium-server-standalone-2.44.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

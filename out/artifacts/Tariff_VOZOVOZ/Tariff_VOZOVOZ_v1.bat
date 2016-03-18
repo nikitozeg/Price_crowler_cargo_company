@@ -1,0 +1,1 @@
+java -jar Monitoring-VOZOVOZ.jar
